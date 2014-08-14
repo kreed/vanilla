@@ -1,3 +1,7 @@
+Abandoned
+=========
+**This repository is no longer maintained. Please use and contribute to [adrian-bl/vanilla](https://github.com/adrian-bl/vanilla) instead.**
+
 Translating
 ===========
 [You can help translate here][1]. If your language isn't on the list, open an
