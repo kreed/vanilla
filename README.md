@@ -19,7 +19,7 @@ Building from command-line
 Building from Eclipse
 ---------------------
 You can also build from Eclipse. Create a new Android Project, choosing "Create
-project from exisiting source", then set the compiler compliance level to 1.6
+project from existing source", then set the compiler compliance level to 1.6
 in project settings.
 
 Documentation
